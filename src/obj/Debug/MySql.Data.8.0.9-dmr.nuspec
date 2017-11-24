@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MySql.Data</id>
+    <version>8.0.9-dmr</version>
+    <authors>Oracle</authors>
+    <owners>Oracle</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <licenseUrl>http://www.gnu.org/licenses/old-licenses/gpl-2.0.html</licenseUrl>
+    <projectUrl>http://dev.mysql.com/downloads/</projectUrl>
+    <iconUrl>http://www.mysql.com/common/logos/logo-mysql-170x115.png</iconUrl>
+    <description>MySql.Data.MySqlClient .Net Core Class Library</description>
+    <releaseNotes>Review ReleaseNotes.txt for details.</releaseNotes>
+    <copyright>Copyright © 2016, 2017, Oracle and/or its affiliates. All rights reserved.</copyright>
+    <tags>MySql .NET Connector MySql Connector/NET netcore .Net Core MySql Conector/Net Core coreclr C/NET C/Net Core</tags>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.0">
+        <dependency id="System.Net.Security" version="4.3.1" exclude="Build,Analyzers" />
+        <dependency id="System.ComponentModel.TypeConverter" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Diagnostics.TextWriterTraceListener" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="1.1.2" exclude="Build,Analyzers" />
+        <dependency id="Google.Protobuf" version="3.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.ComponentModel.Annotations" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.IO.Compression" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Linq.Expressions" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Threading.ThreadPool" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Net.Sockets" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Resources.ResourceManager" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.IO.Pipes" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Security.Principal.Windows" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Text.Encoding.CodePages" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Runtime.Serialization.Formatters" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Collections.NonGeneric" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Diagnostics.Process" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.IO.FileSystem.Primitives" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Net.NameResolution" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Reflection.TypeExtensions" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.IO.MemoryMappedFiles" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Reflection" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Runtime.InteropServices.RuntimeInformation" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.ComponentModel" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.ComponentModel.Primitives" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Threading.Timer" version="4.3.0" exclude="Build,Analyzers" />
+        <dependency id="System.Threading.Tasks" version="4.3.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/netcoreapp2.0/docs/MySqlCommand.xml" buildAction="Content" />
+      <files include="any/netcoreapp2.0/docs/MySqlCommandBuilder.xml" buildAction="Content" />
+      <files include="any/netcoreapp2.0/docs/MySqlConnection.xml" buildAction="Content" />
+      <files include="any/netcoreapp2.0/docs/MySqlConnectionStringBuilder.xml" buildAction="Content" />
+      <files include="any/netcoreapp2.0/docs/MySqlDataAdapter.xml" buildAction="Content" />
+      <files include="any/netcoreapp2.0/docs/MySqlDataReader.xml" buildAction="Content" />
+      <files include="any/netcoreapp2.0/docs/MySqlException.xml" buildAction="Content" />
+      <files include="any/netcoreapp2.0/docs/MySqlHelper.xml" buildAction="Content" />
+      <files include="any/netcoreapp2.0/docs/MySqlParameter.xml" buildAction="Content" />
+      <files include="any/netcoreapp2.0/docs/MySqlParameterCollection.xml" buildAction="Content" />
+      <files include="any/netcoreapp2.0/docs/MySqlTransaction.xml" buildAction="Content" />
+      <files include="any/netcoreapp2.0/app.config.transform" buildAction="Content" />
+      <files include="any/netcoreapp2.0/web.config.transform" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\bin\Debug\netcoreapp2.0\MySql.Data.dll" target="lib\netcoreapp2.0\MySql.Data.dll" />
+    <file src="C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\docs\MySqlCommand.xml" target="content\docs\MySqlCommand.xml" />
+    <file src="C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\docs\MySqlCommand.xml" target="contentFiles\any\netcoreapp2.0\docs\MySqlCommand.xml" />
+    <file src="C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\docs\MySqlCommandBuilder.xml" target="content\docs\MySqlCommandBuilder.xml" />
+    <file src="C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\docs\MySqlCommandBuilder.xml" target="contentFiles\any\netcoreapp2.0\docs\MySqlCommandBuilder.xml" />
+    <file src="C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\docs\MySqlConnection.xml" target="content\docs\MySqlConnection.xml" />
+    <file src="C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\docs\MySqlConnection.xml" target="contentFiles\any\netcoreapp2.0\docs\MySqlConnection.xml" />
+    <file src="C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\docs\MySqlConnectionStringBuilder.xml" target="content\docs\MySqlConnectionStringBuilder.xml" />
+    <file src="C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\docs\MySqlConnectionStringBuilder.xml" target="contentFiles\any\netcoreapp2.0\docs\MySqlConnectionStringBuilder.xml" />
+    <file src="C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\docs\MySqlDataAdapter.xml" target="content\docs\MySqlDataAdapter.xml" />
+    <file src="C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\docs\MySqlDataAdapter.xml" target="contentFiles\any\netcoreapp2.0\docs\MySqlDataAdapter.xml" />
+    <file src="C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\docs\MySqlDataReader.xml" target="content\docs\MySqlDataReader.xml" />
+    <file src="C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\docs\MySqlDataReader.xml" target="contentFiles\any\netcoreapp2.0\docs\MySqlDataReader.xml" />
+    <file src="C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\docs\MySqlException.xml" target="content\docs\MySqlException.xml" />
+    <file src="C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\docs\MySqlException.xml" target="contentFiles\any\netcoreapp2.0\docs\MySqlException.xml" />
+    <file src="C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\docs\MySqlHelper.xml" target="content\docs\MySqlHelper.xml" />
+    <file src="C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\docs\MySqlHelper.xml" target="contentFiles\any\netcoreapp2.0\docs\MySqlHelper.xml" />
+    <file src="C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\docs\MySqlParameter.xml" target="content\docs\MySqlParameter.xml" />
+    <file src="C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\docs\MySqlParameter.xml" target="contentFiles\any\netcoreapp2.0\docs\MySqlParameter.xml" />
+    <file src="C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\docs\MySqlParameterCollection.xml" target="content\docs\MySqlParameterCollection.xml" />
+    <file src="C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\docs\MySqlParameterCollection.xml" target="contentFiles\any\netcoreapp2.0\docs\MySqlParameterCollection.xml" />
+    <file src="C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\docs\MySqlTransaction.xml" target="content\docs\MySqlTransaction.xml" />
+    <file src="C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\docs\MySqlTransaction.xml" target="contentFiles\any\netcoreapp2.0\docs\MySqlTransaction.xml" />
+    <file src="C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\NugetPkgs\transform\Data\app.config.transform" target="content\app.config.transform" />
+    <file src="C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\NugetPkgs\transform\Data\app.config.transform" target="contentFiles\any\netcoreapp2.0\app.config.transform" />
+    <file src="C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\NugetPkgs\transform\Data\web.config.transform" target="content\web.config.transform" />
+    <file src="C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\NugetPkgs\transform\Data\web.config.transform" target="contentFiles\any\netcoreapp2.0\web.config.transform" />
+  </files>
+</package>

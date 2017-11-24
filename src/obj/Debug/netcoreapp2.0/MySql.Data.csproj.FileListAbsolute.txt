@@ -1,0 +1,24 @@
+C:\Users\Andrew Johnson\Desktop\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\bin\Debug\netcoreapp2.0\MySql.Data.deps.json
+C:\Users\Andrew Johnson\Desktop\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\bin\Debug\netcoreapp2.0\MySql.Data.dll
+C:\Users\Andrew Johnson\Desktop\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\bin\Debug\netcoreapp2.0\MySql.Data.pdb
+C:\Users\Andrew Johnson\Desktop\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\obj\Debug\netcoreapp2.0\MySql.Data.Resources.resources
+C:\Users\Andrew Johnson\Desktop\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\obj\Debug\netcoreapp2.0\MySql.Data.ResourcesX.resources
+C:\Users\Andrew Johnson\Desktop\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\obj\Debug\netcoreapp2.0\MySql.Data.csproj.GenerateResource.Cache
+C:\Users\Andrew Johnson\Desktop\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\obj\Debug\netcoreapp2.0\MySql.Data.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Johnson\Desktop\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\obj\Debug\netcoreapp2.0\MySql.Data.AssemblyInfoInputs.cache
+C:\Users\Andrew Johnson\Desktop\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\obj\Debug\netcoreapp2.0\MySql.Data.AssemblyInfo.cs
+C:\Users\Andrew Johnson\Desktop\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\obj\Debug\netcoreapp2.0\MySql.Data.dll
+C:\Users\Andrew Johnson\Desktop\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\obj\Debug\netcoreapp2.0\MySql.Data.pdb
+C:\Users\Andrew Johnson\Desktop\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\obj\Debug\netcoreapp2.0\MySql.Data.csprojResolveAssemblyReference.cache
+C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\bin\Debug\netcoreapp2.0\MySql.Data.deps.json
+C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\bin\Debug\netcoreapp2.0\MySql.Data.dll
+C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\bin\Debug\netcoreapp2.0\MySql.Data.pdb
+C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\obj\Debug\netcoreapp2.0\MySql.Data.csprojResolveAssemblyReference.cache
+C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\obj\Debug\netcoreapp2.0\MySql.Data.Resources.resources
+C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\obj\Debug\netcoreapp2.0\MySql.Data.ResourcesX.resources
+C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\obj\Debug\netcoreapp2.0\MySql.Data.csproj.GenerateResource.Cache
+C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\obj\Debug\netcoreapp2.0\MySql.Data.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\obj\Debug\netcoreapp2.0\MySql.Data.AssemblyInfoInputs.cache
+C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\obj\Debug\netcoreapp2.0\MySql.Data.AssemblyInfo.cs
+C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\obj\Debug\netcoreapp2.0\MySql.Data.dll
+C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\src\obj\Debug\netcoreapp2.0\MySql.Data.pdb

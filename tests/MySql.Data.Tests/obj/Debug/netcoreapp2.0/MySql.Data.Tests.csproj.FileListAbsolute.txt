@@ -1,0 +1,34 @@
+C:\Users\Andrew Johnson\Desktop\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Andrew Johnson\Desktop\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Andrew Johnson\Desktop\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Andrew Johnson\Desktop\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\bin\Debug\netcoreapp2.0\client.pfx
+C:\Users\Andrew Johnson\Desktop\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\bin\Debug\netcoreapp2.0\MySql.Data.Tests.deps.json
+C:\Users\Andrew Johnson\Desktop\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\bin\Debug\netcoreapp2.0\MySql.Data.Tests.runtimeconfig.json
+C:\Users\Andrew Johnson\Desktop\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\bin\Debug\netcoreapp2.0\MySql.Data.Tests.runtimeconfig.dev.json
+C:\Users\Andrew Johnson\Desktop\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\bin\Debug\netcoreapp2.0\MySql.Data.Tests.dll
+C:\Users\Andrew Johnson\Desktop\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\bin\Debug\netcoreapp2.0\MySql.Data.Tests.pdb
+C:\Users\Andrew Johnson\Desktop\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\bin\Debug\netcoreapp2.0\MySql.Data.dll
+C:\Users\Andrew Johnson\Desktop\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\bin\Debug\netcoreapp2.0\MySql.Data.pdb
+C:\Users\Andrew Johnson\Desktop\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\obj\Debug\netcoreapp2.0\MySql.Data.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Andrew Johnson\Desktop\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\obj\Debug\netcoreapp2.0\MySql.Data.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Johnson\Desktop\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\obj\Debug\netcoreapp2.0\MySql.Data.Tests.AssemblyInfoInputs.cache
+C:\Users\Andrew Johnson\Desktop\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\obj\Debug\netcoreapp2.0\MySql.Data.Tests.AssemblyInfo.cs
+C:\Users\Andrew Johnson\Desktop\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\obj\Debug\netcoreapp2.0\MySql.Data.Tests.dll
+C:\Users\Andrew Johnson\Desktop\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\obj\Debug\netcoreapp2.0\MySql.Data.Tests.pdb
+C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\bin\Debug\netcoreapp2.0\client.pfx
+C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\bin\Debug\netcoreapp2.0\MySql.Data.Tests.deps.json
+C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\bin\Debug\netcoreapp2.0\MySql.Data.Tests.runtimeconfig.json
+C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\bin\Debug\netcoreapp2.0\MySql.Data.Tests.runtimeconfig.dev.json
+C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\bin\Debug\netcoreapp2.0\MySql.Data.Tests.dll
+C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\bin\Debug\netcoreapp2.0\MySql.Data.Tests.pdb
+C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\bin\Debug\netcoreapp2.0\MySql.Data.dll
+C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\bin\Debug\netcoreapp2.0\MySql.Data.pdb
+C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\obj\Debug\netcoreapp2.0\MySql.Data.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\obj\Debug\netcoreapp2.0\MySql.Data.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\obj\Debug\netcoreapp2.0\MySql.Data.Tests.AssemblyInfoInputs.cache
+C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\obj\Debug\netcoreapp2.0\MySql.Data.Tests.AssemblyInfo.cs
+C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\obj\Debug\netcoreapp2.0\MySql.Data.Tests.dll
+C:\Users\Andrew Johnson\Dropbox\cci\programming\Visual Studio 2010\Projects\mysql-connector-net-8.0.9-dmr-src\MySQL.Data\tests\MySql.Data.Tests\obj\Debug\netcoreapp2.0\MySql.Data.Tests.pdb
